@@ -65,7 +65,7 @@
       <file leaf-file-name="rails_admin.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/rails_admin.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.14371258">
+            <state line="10" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.35928145">
               <folding />
             </state>
           </provider>
@@ -509,7 +509,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/rails_admin.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.14371258">
+        <state line="10" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.35928145">
           <folding />
         </state>
       </provider>
