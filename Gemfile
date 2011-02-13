@@ -7,6 +7,9 @@ gem 'rails', '3.0.4'
 
 gem 'sqlite3'
 
+gem 'devise' #just for rails_admin, not currently used
+gem 'rails_admin', :git => 'git://github.com/sferik/rails_admin.git'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
